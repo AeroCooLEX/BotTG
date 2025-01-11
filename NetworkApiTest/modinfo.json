@@ -1,0 +1,12 @@
+{
+    "type": "code",
+    "modid": "bottg",
+    "name": "BotTG",
+    "authors": [ "AeroCooLex" ],
+    "description": "Add telegram bot to your VS server",
+    "version": "1.0.0",
+    "dependency": {
+        "game": "1.20.0-rc.6"
+    }
+}
+  

@@ -1,0 +1,13 @@
+D:\BotTG2\NetworkApiTest\bin\Release\Mods\mod\modinfo.json
+D:\BotTG2\NetworkApiTest\bin\Release\Mods\mod\BotTG.deps.json
+D:\BotTG2\NetworkApiTest\bin\Release\Mods\mod\BotTG.dll
+D:\BotTG2\NetworkApiTest\bin\Release\Mods\mod\BotTG.pdb
+D:\BotTG2\NetworkApiTest\obj\Release\BotTG.csproj.AssemblyReference.cache
+D:\BotTG2\NetworkApiTest\obj\Release\BotTG.GeneratedMSBuildEditorConfig.editorconfig
+D:\BotTG2\NetworkApiTest\obj\Release\BotTG.AssemblyInfoInputs.cache
+D:\BotTG2\NetworkApiTest\obj\Release\BotTG.AssemblyInfo.cs
+D:\BotTG2\NetworkApiTest\obj\Release\BotTG.csproj.CoreCompileInputs.cache
+D:\BotTG2\NetworkApiTest\obj\Release\BotTG.dll
+D:\BotTG2\NetworkApiTest\obj\Release\refint\BotTG.dll
+D:\BotTG2\NetworkApiTest\obj\Release\BotTG.pdb
+D:\BotTG2\NetworkApiTest\obj\Release\ref\BotTG.dll

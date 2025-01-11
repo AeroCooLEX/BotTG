@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BotTG</id>
+    <version>1.0.0</version>
+    <authors>BotTG</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="Google.Protobuf" version="3.29.3" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+        <dependency id="Telegram.Bot" version="22.3.0" exclude="Build,Analyzers" />
+        <dependency id="protobuf-net" version="3.2.45" exclude="Build,Analyzers" />
+        <dependency id="protobuf-net.Core" version="3.2.45" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net7.0/modinfo.json" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\BotTG2\NetworkApiTest\bin\Debug\Mods\mod\BotTG.dll" target="lib\net7.0\BotTG.dll" />
+    <file src="D:\BotTG2\NetworkApiTest\modinfo.json" target="content\modinfo.json" />
+    <file src="D:\BotTG2\NetworkApiTest\modinfo.json" target="contentFiles\any\net7.0\modinfo.json" />
+  </files>
+</package>

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "tKIuXy1+7uk=",
+  "success": true,
+  "projectFilePath": "D:\\BotTG2 — копия (4)\\NetworkApiTest\\BotTG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adminus\\.nuget\\packages\\google.protobuf\\3.29.3\\google.protobuf.3.29.3.nupkg.sha512",
+    "C:\\Users\\Adminus\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Adminus\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "C:\\Users\\Adminus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Adminus\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Adminus\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Adminus\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Adminus\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Adminus\\.nuget\\packages\\protobuf-net\\3.2.45\\protobuf-net.3.2.45.nupkg.sha512",
+    "C:\\Users\\Adminus\\.nuget\\packages\\protobuf-net.core\\3.2.45\\protobuf-net.core.3.2.45.nupkg.sha512",
+    "C:\\Users\\Adminus\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
+    "C:\\Users\\Adminus\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Adminus\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512",
+    "C:\\Users\\Adminus\\.nuget\\packages\\telegram.bot\\22.3.0\\telegram.bot.22.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
